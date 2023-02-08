@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: gray;
+}
+
+header{
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+
+
+.GIT{
+    width: 90%;
+    max-width: 1000px;
+    overflow: hidden;
+    margin: auto;
+    margin-top: 10px;
+    
+}
